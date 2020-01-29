@@ -1,9 +1,9 @@
 <?php
 
-namespace Jobcerto\NovaGrid\Http\Middleware;
+namespace Keops007\NovaGrid\Http\Middleware;
 
 use Laravel\Nova\Nova;
-use Jobcerto\NovaGrid\NovaGrid;
+use Keops007\NovaGrid\NovaGrid;
 
 class Authorize
 {

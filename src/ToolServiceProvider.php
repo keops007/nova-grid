@@ -1,6 +1,6 @@
 <?php
 
-namespace Jobcerto\NovaGrid;
+namespace Keops007\NovaGrid;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Fields\Field;

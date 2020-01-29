@@ -2,20 +2,20 @@
 
 
 This is a tool for Laravel's Nova administrator panel that allows you to create grids-based-layout for your resources.
-
+Created from the original https://packagist.org/packages/jobcerto/nova-grid
 ## Installation
 
 You can install the package via composer:
 
 ```
-composer require jobcerto/nova-grid
+composer require keops007/nova-grid
 ```
 
 Then, you will need to register the tool within the `NovaServiceProvider.php`:
 
 ```php
 
-use Jobcerto\NovaGrid\NovaGrid;
+use Keops007\NovaGrid\NovaGrid;
 
 ...
 

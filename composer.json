@@ -1,5 +1,5 @@
 {
-    "name": "jobcerto/nova-grid",
+    "name": "keops007/nova-grid",
     "description": "Add coluns to create and Update resources",
     "keywords": [
         "laravel",
@@ -14,7 +14,7 @@
     {
         "psr-4":
         {
-            "Jobcerto\\NovaGrid\\": "src/"
+            "Keops007\\NovaGrid\\": "src/"
         }
     },
     "extra":
@@ -22,7 +22,7 @@
         "laravel":
         {
             "providers": [
-                "Jobcerto\\NovaGrid\\ToolServiceProvider"
+                "Keops007\\NovaGrid\\ToolServiceProvider"
             ]
         }
     },

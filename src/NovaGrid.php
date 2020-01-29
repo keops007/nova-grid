@@ -1,6 +1,6 @@
 <?php
 
-namespace Jobcerto\NovaGrid;
+namespace Keops007\NovaGrid;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Tool;
